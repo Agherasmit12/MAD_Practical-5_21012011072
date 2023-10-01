@@ -1,4 +1,4 @@
-
+# MAD_Practical-5_21012011072
 
 Q. What is Intent? Write down types of Intent and types of Intent Action. Create an application which demonstrates implicit Intent for following features. 
 
@@ -35,3 +35,5 @@ Q. What is Intent? Write down types of Intent and types of Intent Action. Create
 
 -> **Output :-**
 
+![image](https://github.com/Divy484/MAD_Practical-5_21012011072/assets/98522523/2517ec7c-8def-4b70-9fbc-466fe4566e18)
+![image](https://github.com/Divy484/MAD_Practical-5_21012011072/assets/98522523/92effd36-ec99-43a2-a87a-932b5163a684)
